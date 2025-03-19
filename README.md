@@ -26,11 +26,11 @@ The app is live on Streamlit Cloud: [Gold Investment System](https://your-app-na
 
 *(Add screenshots of your app here after deployment. For example:)*
 - **Portfolio Tracking**:
-  ![Portfolio Tab](screenshots/portfolio.png)
+  ![Portfolio Tab](screenshots/first.jpeg)
 - **Investment Calculator**:
-  ![Calculator Tab](screenshots/calculator.png)
+  ![Calculator Tab](screenshots/second.jpeg)
 - **Price Trends**:
-  ![Trends Tab](screenshots/trends.png)
+  ![Trends Tab](screenshots/third.jpeg)
 
 ## 🛠️ Installation
 
