@@ -1,4 +1,3 @@
-Below is a professional `README.md` content for your GitHub repository, `Gold-Investment-System`. This README provides a clear overview of the project, its features, installation instructions, usage, and other relevant details. It’s written in Markdown format, which GitHub renders nicely.
 
 ---
 
@@ -20,11 +19,10 @@ A Streamlit-based web application designed for Egyptians to track, invest, and s
 
 ## 🚀 Demo
 
-The app is live on Streamlit Cloud: [Gold Investment System](https://your-app-name.streamlit.app) *(Replace with your actual app URL after deployment)*
+The app is live on Streamlit Cloud: [Gold Investment System](https://gold-investment-system-c3ddvbhpwmh2nvdkdyevdq.streamlit.app/) 
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here after deployment. For example:)*
 - **Portfolio Tracking**:
   ![Portfolio Tab](screenshots/first.jpeg)
 - **Investment Calculator**:
@@ -175,5 +173,3 @@ For questions or feedback, reach out to:
      ```bash
      git push origin main
      ```
-
-This `README.md` will make your repository look professional and provide clear instructions for users and contributors. Let me know if you’d like to adjust any sections!
