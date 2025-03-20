@@ -11,7 +11,7 @@ import time
 import re
 
 # Set page configuration
-st.set_page_config(page_title="نظام استثمار الذهب", page_icon="💰", layout="wide")
+st.set_page_config(page_title="Gold Investment System", page_icon="💰", layout="wide")
 
 # API Keys (store in secrets.toml)
 ALPHA_VANTAGE_API_KEY = st.secrets["ALPHA_VANTAGE_API_KEY"]
